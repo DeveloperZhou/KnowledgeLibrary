@@ -1,7 +1,9 @@
 #复变函数的积分
 
 [TOC]
-
+<script type="text/javascript"
+ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 ##3.1复积分的概念
 
 $$\int_{ c }{ f(z)dz=\int_{ c } (u+iv)(dx+idy) } =\int_{ c } udx-vdy+i\int_{ c } vdx+udy$$
